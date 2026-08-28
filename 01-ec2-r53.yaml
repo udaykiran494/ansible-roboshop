@@ -4,11 +4,11 @@
   vars:
     ami_id: ami-0220d79f3f480ecf5
     sg_id: sg-0ba572be0061b03ce # replace with your SG ID
-    zone_id: "Z01918211SQWTP0BRDCQQ" # replace with your ID
-    domain_name: "udaykiran.site"
+    zone_id: Z01918211SQWTP0BRDCQQ # replace with your ID
+    domain_name: udaykiran.site
     # we can pass instances through command line using -e
     instances: 
-    # - mongodb
+    - mongodb
     # - redis
     # - mysql
     # - rabbitmq
