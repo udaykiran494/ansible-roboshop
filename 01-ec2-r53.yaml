@@ -8,7 +8,7 @@
     domain_name: "udaykiran.site"
     # we can pass instances through command line using -e
     instances: 
-    - mongodb
+    # - mongodb
     # - redis
     # - mysql
     # - rabbitmq
