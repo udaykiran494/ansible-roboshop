@@ -7,8 +7,8 @@
     zone_id: "Z01918211SQWTP0BRDCQQ" # replace with your ID
     domain_name: "udaykiran.site"
     # we can pass instances through command line using -e
-    # instances: 
-    # - mongodb
+    instances: 
+    - mongodb
     # - redis
     # - mysql
     # - rabbitmq
